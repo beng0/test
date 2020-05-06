@@ -4,7 +4,7 @@ from pprint import pprint
 
 import pandas as pd
 import re
-from get_driver import init_driver
+from shilidaima_grab.get_driver import init_driver
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
@@ -32,7 +32,7 @@ def f1(driver, num):
     data = []
     html = driver.page_source
 
-    # print(html)
+    print(html)
 
     soup = BeautifulSoup(html, 'html.parser')
     div = soup.find('div', id='infolist')

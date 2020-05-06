@@ -1,4 +1,3 @@
-#coding=utf-8
 from pprint import pprint
 
 from selenium import webdriver
@@ -81,8 +80,3 @@ def get_ip():
         sema.release()
 
     return ip.strip()
-
-
-
-
-
