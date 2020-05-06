@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8fafea6-0bc4-467f-ab6b-723d1397adab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ZL_QZM.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/get_shanxipeople.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/01henanqiyeList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/get_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/henanqiyebefore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/henanryffbefore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/selenium_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_grab_test/shanxiqiye.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shilidaima_grab/anhui_chuzhou_ggzy.py" beforeDir="false" afterPath="$PROJECT_DIR$/shilidaima_grab/anhui_chuzhou_ggzy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shilidaima_grab/get_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/shilidaima_grab/get_driver.py" afterDir="false" />
-    </list>
+    <list default="true" id="b8fafea6-0bc4-467f-ab6b-723d1397adab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/py_grab_test/01henanqiyeList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#15#56#0" expanded="true" />
               </folding>
@@ -51,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/py_grab_test/base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -63,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/py_grab_test/henanqiyebefore.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -74,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/py_grab_test/selenium_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="104" column="44" lean-forward="true" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
+            <state relative-caret-position="236">
+              <caret line="110" column="39" lean-forward="true" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
               <folding>
                 <element signature="e#26#56#0" expanded="true" />
               </folding>
@@ -182,16 +166,6 @@
             <path>
               <item name="myworkspace35" type="b2602c69:ProjectViewProjectNode" />
               <item name="myworkspace35" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myworkspace35" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworkspace35" type="462c0819:PsiDirectoryNode" />
-              <item name="py_grab_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myworkspace35" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myworkspace35" type="462c0819:PsiDirectoryNode" />
-              <item name="shilidaima_grab" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,6 +318,14 @@
       <option name="presentableId" value="Default" />
       <updated>1584602629431</updated>
     </task>
+    <task id="LOCAL-00001" summary="2020-5-6">
+      <created>1588779180843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588779180843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -355,12 +337,12 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938388" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19311875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19311875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32963374" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32938388" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -370,6 +352,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020-5-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-5-6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_compare_jianshetong/__init__.py">
@@ -486,7 +472,7 @@
     <entry file="file://$PROJECT_DIR$/py_grab_test/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -496,7 +482,7 @@
     <entry file="file://$PROJECT_DIR$/py_grab_test/henanqiyebefore.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
@@ -506,7 +492,7 @@
     <entry file="file://$PROJECT_DIR$/py_grab_test/01henanqiyeList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#15#56#0" expanded="true" />
           </folding>
@@ -515,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py_grab_test/selenium_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="104" column="44" lean-forward="true" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
+        <state relative-caret-position="236">
+          <caret line="110" column="39" lean-forward="true" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
           <folding>
             <element signature="e#26#56#0" expanded="true" />
           </folding>
